@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\bin\Debug\ArCadeOtomosyon.exe
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\bin\Debug\ArCadeOtomosyon.pdb
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.Form1.resources
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.Properties.Resources.resources
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.exe
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\obj\Debug\ArCadeOtomosyon.pdb
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\ArCadeOtomosyon\ArCadeOtomosyon\bin\Debug\Newtonsoft.Json.xml
